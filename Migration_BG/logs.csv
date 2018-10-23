@@ -1,0 +1,3 @@
+,BUGZILLA_ID,JIRA_ID,ISSUE_CREATED,UPDATE,COMMENTS,EXCEPTION_CAUSE
+0,266457,TPFWD-2,,N,,"(400, ""Field 'aggregatetimeoriginalestimate' cannot be set. It is not on the appropriate screen, or unknown."", 'https://metricstreampm.atlassian.net/rest/api/2/issue/187013')"
+1,266460,TPFWD-2,,N,,"(400, ""Field 'aggregatetimeoriginalestimate' cannot be set. It is not on the appropriate screen, or unknown."", 'https://metricstreampm.atlassian.net/rest/api/2/issue/187013')"
